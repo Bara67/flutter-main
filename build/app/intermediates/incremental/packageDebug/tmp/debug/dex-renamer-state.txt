@@ -1,0 +1,4 @@
+#Mon May 27 22:43:51 WITA 2024
+base.0=D\:\\TUGASS\\Semester 4\\RPL\\Kelompok\\flutter-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
